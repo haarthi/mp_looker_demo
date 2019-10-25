@@ -1,4 +1,4 @@
-connection: "qa_redshift"
+connection: "looker-demo"
 
 # include all the views
 include: "*.view"

@@ -1,6 +1,6 @@
 view: rawevents {
   ## change to relevant schema name for block implementation
-  sql_table_name: app_191.eventsview ;;
+  sql_table_name: lookerdemoschema.eventsview ;;
 
   dimension: app_id {
     type: number
